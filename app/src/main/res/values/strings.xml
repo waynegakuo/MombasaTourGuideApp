@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Mombasa Tour Guide App</string>
+    <string name="recreation">Fun</string>
+    <string name="beaches">Beach</string>
+    <string name="restuarants">Food</string>
+    <string name="resorts">Resorts</string>
+
+    <string name="beaches_msa">Beaches in Mombasa</string>
+
+    <string name="restaurants_msa">Restaurants in Mombasa</string>
+
+    <string name="recreation_msa">Recreational Facilities in Mombasa</string>
+
+    <!--BeachFragment Strings-->
+    <!--Mombasa Beach Hotel String-->
+    <string name="msa_beach">Mombasa Beach Hotel</string>
+    <!--Mombasa Beach Hotel location string-->
+    <string name="msa_beach_loc">Nyali, Mombasa, Kenya</string>
+
+    <!--Pirates Beach String-->
+    <string name="pirates">Priates Public Beach</string>
+    <!--Pirates Beach location string-->
+    <string name="pirates_loc">Bamburi, Mombasa, Kenya</string>
+
+    <!--Shellly Beach String-->
+    <string name="shelly_beach">Shelly Beach</string>
+    <!--Shelly Beach location string-->
+    <string name="shelly_loc">Likoni, Mombasa, Kenya</string>
+
+    <!--Nyali Beach String-->
+    <string name="nyali">Nyali Beach</string>
+    <!--Nyali Beach location string-->
+    <string name="nyali_loc">Nyali, Mombasa, Kenya</string>
+
+    <!--Voyager Beach String-->
+    <string name="voyager">Voyager Beach</string>
+    <!--Voyager Beach location string-->
+    <string name="voyager_loc">Mkomani, Mombasa, Kenya</string>
+
+    <!--RecreationFragment Strings-->
+    <!--Mamba Village name-->
+    <string name="mamba">Mamba Village</string>
+    <!--Mamba Village location-->
+    <string name="mamba_loc">Nyali, Mombasa, Kenya</string>
+
+    <!--Haller Park name-->
+    <string name="haller">Haller Park</string>
+    <!--Haller Parl location-->
+    <string name="haller_loc">Bamburi, Mombasa, Kenya</string>
+
+    <!--Mombasa Yacht Club name-->
+    <string name="yacht">Mombasa Yacht Club</string>
+    <!--Mamba Village location-->
+    <string name="yacht_loc">Liwatoni, Mombasa, Kenya</string>
+
+    <!--Royal Court name-->
+    <string name="royal">Royal Court Pool</string>
+    <!--Royal Court location-->
+    <string name="royal_loc">Haile Selassie Rd, Mombasa, Kenya</string>
+
+    <!--Railway name-->
+    <string name="msa_railway">Mombasa Railway Station</string>
+    <!--Railway location-->
+    <string name="msa_railway_loc">Miritini, Mombasa, Kenya</string>
+
+    <!--ResortFragment Strings-->
+    <!--Baobab Resort name-->
+    <string name="baobab">Baobab Holiday Resort</string>
+    <!--Baobab Resort price-->
+    <string name="baobab_price">"Booking Price: Kshs. 8,322 per night"</string>
+
+    <!--PrideInn name-->
+    <string name="pride">PrideInn Beach Resort</string>
+    <!--Baobab Resort price-->
+    <string name="pride_price">Booking Price: Kshs. 26,859 per night</string>
+
+    <!--Continental name-->
+    <string name="continental">Mombasa Continental Resort</string>
+    <!--Continental price-->
+    <string name="continental_price">Booking Price: Kshs. 8,614 per night</string>
+
+    <!--Makwetu name-->
+    <string name="makwetu">Makwetu Villas</string>
+    <!--Makwetu price-->
+    <string name="makwetu_price">Booking Price: Kshs. 7,917 per night</string>
+
+    <!--Pavilion name-->
+    <string name="pav">Pavilion Holiday Resort</string>
+    <!--Pavilion price-->
+    <string name="pav_price">Booking Price: Kshs. 6,594 per night</string>
+
+    <!--RestaurantFragment-->
+    <!--10 street name-->
+    <string name="ten_street">10 Street Restaurant</string>
+    <!--10 street location-->
+    <string name="ten_street_loc">Naivas Supermarket, Mombasa, Kenya</string>
+
+    <!--Tamarind name-->
+    <string name="tamarind">Tamarind Mombasa</string>
+    <!--10 street location-->
+    <string name="tamarind_loc">Cement Silo Road, Mombasa, Kenya</string>
+
+    <!--Sea Haven name-->
+    <string name="sea">Sea Haven Restaurant</string>
+    <!--Sea Haven location-->
+    <string name="sea_loc">Utange, Mombasa, Kenya</string>
+
+    <!--Forodhani name-->
+    <string name="foro">Forodhani Restaurant</string>
+    <!--Forodhani location-->
+    <string name="foro_loc">Fort Jesus, Mombasa, Kenya</string>
+
+    <!--Tarboush name-->
+    <string name="tarboush">Tarboush Restaurant Beach</string>
+    <!--Tarboush location-->
+    <string name="tarboush_loc">Posta, Mombasa Kenya</string>
+
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
